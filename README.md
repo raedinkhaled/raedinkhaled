@@ -9,7 +9,7 @@ I took on software projects while building a retail business. I'm now looking to
 - 🎓 **Ongoing study:** M.Sc. in Artificial Intelligence at JKU Linz, part-time through distance learning and compatible with full-time employment.
 - 🌍 **Available for opportunities:** Austria, Germany, France, Bosnia and Herzegovina, and Algeria.
 
-[![badge](https://shieldcn.dev/badge/LinkedIn-Connect-0077b5.svg?font=jetbrains-mono&split=true&logo=ri%3ABsLinkedin&statusDot=true)](https://www.linkedin.com/in/raedin-khaled-s-167850232/)· [![badge](https://shieldcn.dev/badge/Research%20models.svg?font=jetbrains-mono&logo=huggingface&brand=huggingface)](https://huggingface.co/raedinkhaled)
+[![badge](https://shieldcn.dev/badge/LinkedIn-Connect-0077b5.svg?font=jetbrains-mono&split=true&logo=ri%3ABsLinkedin&statusDot=true)](https://www.linkedin.com/in/raedin-khaled-s-167850232/)· [![badge](https://shieldcn.dev/badge/Research%20models.svg?font=jetbrains-mono&logo=huggingface&brand=huggingface&statusDot=true)](https://huggingface.co/raedinkhaled)
 
 ## AI & research
 
