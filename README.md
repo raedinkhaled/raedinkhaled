@@ -1,48 +1,56 @@
-<img src="assets/header.svg" alt="Raedin Khaled Sakhri. Full-stack engineer with a backend focus." width="960" />
+<img src="assets/header.svg" alt="Raedin Khaled Sakhri. Backend-focused full-stack engineer interested in AI engineering." width="960" />
 
 # Hi, I'm Raedin
 
-I'm a **full-stack engineer with a backend focus**. My experience spans backend development, web migrations, Flutter, and academic machine learning.
+I'm a **backend-focused full-stack engineer interested in AI engineering**. I worked on GME's Spring Boot backend, migrated Casbah Connect from Clerk to NextAuth, and co-authored transformer research for cardiac MRI classification in **2022**.
 
-I've worked on software projects alongside building a retail business. I'm now looking to contribute within a development team and deepen my engineering skills.
+I took on software projects while building a retail business. I'm now looking to bring that experience into a development team.
+
+- 🎓 **Ongoing study:** M.Sc. in Artificial Intelligence at JKU Linz, part-time through distance learning and compatible with full-time employment.
+- 🌍 **Available for opportunities:** Austria, Germany, France, Bosnia and Herzegovina, and Algeria.
 
 [LinkedIn](https://www.linkedin.com/in/raedin-khaled-sakhri-167850232/) · [Research models](https://huggingface.co/raedinkhaled) · [Email: raedinkhaled@outlook.com](mailto:raedinkhaled@outlook.com)
 
-## Selected work
+## AI & research
+
+My **co-authored M.Sc. research (2022)** compared models for cardiac MRI classification on the Kaggle CAD dataset. The thesis was graded **18/20**.
+
+Fine-tuned ViT and Swin with Hugging Face Transformers and PyTorch, built models from scratch with Keras/TensorFlow, and applied Grad-CAM to the CNN and from-scratch ViT.
+
+| Model | Academic evaluation accuracy | Published artifact |
+| :--- | :---: | :--- |
+| ViT-Base | 98.27% | [ViT model card](https://huggingface.co/raedinkhaled/vit-base-mri) |
+| Swin-Tiny | 98.07% | [Swin model card](https://huggingface.co/raedinkhaled/swin-tiny-patch4-window7-224-finetuned-mri) |
+
+*Results from the thesis dataset evaluation.*
+
+## Software work
 
 ### GME | Vehicle service platform
 
-Worked on a Spring Boot backend and a migration from an existing Django system. Implemented WebSocket dispatch and Redis-backed OTP data/caching, and worked on the Angular Signals admin dashboard.
+Worked on the migration from an existing Django backend to Spring Boot. Implemented WebSocket dispatch and Redis-backed OTP data/caching, and worked on the Angular Signals admin dashboard.
 
 *Past development project. My involvement ended in August 2026; code remains private.*
 
 ### Casbah Connect | Authentication and framework migration
 
-Migrated Clerk authentication to NextAuth, added server-derived identity and ownership checks, and upgraded the Next.js, React, and TypeScript stack.
+Replaced Clerk with NextAuth passwordless sign-in, added server-derived identity and ownership checks before edits/deletes, and upgraded the Next.js, React, and TypeScript stack.
 
 *Personal, course-based Q&A project. My contribution is the migration and hardening work.*
 
 [Explore the repository](https://github.com/raedinkhaled/casbahconnect-next) · [Try the live demo](https://casbah-connect.vercel.app/)
-
-### Cardiac MRI classification | M.Sc. research, 2022
-
-Co-authored research on transformer models for heart-disease prediction, graded **18/20**. Fine-tuned ViT and Swin models with Hugging Face Transformers and PyTorch, built models from scratch with Keras/TensorFlow, and applied Grad-CAM to the CNN and from-scratch ViT.
-
-*Academic research.* [Explore the model cards](https://huggingface.co/raedinkhaled)
 
 ## Technologies
 
 | Focus | Languages and tools |
 | :--- | :--- |
 | Backend | Java, Spring Boot, REST APIs, SQL |
+| AI research | Python, Hugging Face Transformers, PyTorch, Keras/TensorFlow |
 | Web | TypeScript, Angular, React, Next.js, MongoDB |
 | Mobile | Flutter, Dart |
 | Development tools | Git, Linux, Docker |
 
-## A little more about me
+## Background
 
 - **Education:** M.Sc. in Data Engineering and Web Technologies and B.Sc. in Computer Science, Ferhat Abbas University.
-- **Ongoing study:** M.Sc. in Artificial Intelligence at Johannes Kepler University Linz, part-time through distance learning and compatible with full-time employment.
 - **Languages:** English and French at a professional level; native Bosnian and Arabic.
-
-Open to **software engineering opportunities**, particularly backend work. [Let's connect on LinkedIn](https://www.linkedin.com/in/raedin-khaled-sakhri-167850232/).
