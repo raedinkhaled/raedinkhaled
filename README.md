@@ -1,5 +1,3 @@
-<img src="assets/header.svg" alt="Raedin Khaled Sakhri. Backend-focused full-stack engineer interested in AI engineering." width="960" />
-
 # Hi, I'm Raedin
 
 I'm a **backend-focused full-stack engineer interested in AI engineering**.
