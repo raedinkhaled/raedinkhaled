@@ -2,14 +2,14 @@
 
 # Hi, I'm Raedin
 
-I'm a **backend-focused full-stack engineer interested in AI engineering**. I worked on GME's Spring Boot backend, migrated Casbah Connect from Clerk to NextAuth, and co-authored transformer research for cardiac MRI classification in **2022**.
+I'm a **backend-focused full-stack engineer interested in AI engineering**.
 
 I took on software projects while building a retail business. I'm now looking to bring that experience into a development team.
 
 - 🎓 **Ongoing study:** M.Sc. in Artificial Intelligence at JKU Linz, part-time through distance learning and compatible with full-time employment.
 - 🌍 **Available for opportunities:** Austria, Germany, France, Bosnia and Herzegovina, and Algeria.
 
-[LinkedIn](https://www.linkedin.com/in/raedin-khaled-sakhri-167850232/) · [Research models](https://huggingface.co/raedinkhaled) · [Email: raedinkhaled@outlook.com](mailto:raedinkhaled@outlook.com)
+[![badge](https://shieldcn.dev/badge/LinkedIn-Connect-0077b5.svg?size=default&font=jetbrains-mono&split=true&logo=ri%3ABsLinkedin&statusDot=true)](https://www.linkedin.com/in/raedin-khaled-s-167850232/)· [![badge](https://shieldcn.dev/badge/Research%20models.svg?font=jetbrains-mono&logo=huggingface&brand=huggingface)](https://huggingface.co/raedinkhaled)
 
 ## AI & research
 
