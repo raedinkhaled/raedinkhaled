@@ -5,7 +5,7 @@ I'm a **backend-focused full-stack engineer interested in AI engineering**.
 I took on software projects while building a retail business. I'm now looking to bring that experience into a development team.
 
 - 🎓 **Ongoing study:** M.Sc. in Artificial Intelligence at JKU Linz, part-time through distance learning and compatible with full-time employment.
-- - 🎓 **Completed study:** M.Sc. in Computer Science at UFAS Setif, Algeria, Area of specialization: Data engineering and Web Technologies
+- 🎓 **Completed study:** M.Sc. in Computer Science at UFAS Setif, Algeria, Area of specialization: Data engineering and Web Technologies
 - 🌍 **Available for opportunities:** Austria, Germany, France, Bosnia and Herzegovina, and Algeria.
 
 [![badge](https://shieldcn.dev/badge/Let's%20connect-0077b5.svg?font=jetbrains-mono&logo=ri%3ABsLinkedin&statusDot=true)](https://www.linkedin.com/in/raedin-khaled-s-167850232/)· [![badge](https://shieldcn.dev/badge/Research%20models.svg?font=jetbrains-mono&logo=huggingface&brand=huggingface&statusDot=true)](https://huggingface.co/raedinkhaled)
