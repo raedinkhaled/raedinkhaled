@@ -23,6 +23,15 @@ Fine-tuned ViT and Swin with Hugging Face Transformers and PyTorch, built models
 
 *Results from the thesis dataset evaluation.*
 
+## Adding to my skillset: AI engineering
+
+I'm deepening my AI engineering skills, with a focus on retrieval systems and LLM agents: how an agent reasons, calls tools and decides its next step.
+
+- **Retrieval-augmented generation (RAG):** document ingestion, embeddings, vector databases and retrieval.
+- **Agents with LangChain and LangGraph:** LangChain Expression Language (LCEL), prompt templates, tool calling and agent loops, with LangSmith tracing.
+- **Agent reasoning:** reading [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) and [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) to understand what a good agent architecture looks like.
+- **Model tooling:** the OpenAI API, and local models with Ollama.
+
 ## Software work
 
 ### GME | Vehicle service platform
@@ -45,6 +54,7 @@ Replaced Clerk with NextAuth passwordless sign-in, added server-derived identity
 | :--- | :--- |
 | Backend | Java, Spring Boot, REST APIs, SQL |
 | AI research | Python, Hugging Face Transformers, PyTorch, Keras/TensorFlow |
+| AI engineering (learning) | LangChain, LangGraph, RAG, embeddings, vector databases, OpenAI API, Ollama |
 | Web | TypeScript, Angular, React, Next.js, MongoDB |
 | Mobile | Flutter, Dart |
 | Development tools | Git, Linux, Docker |
