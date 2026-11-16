@@ -30,7 +30,7 @@ I'm deepening my AI engineering skills, with a focus on retrieval systems and LL
 - **Retrieval-augmented generation (RAG):** document ingestion, embeddings, vector databases and retrieval.
 - **Agents with LangChain and LangGraph:** LangChain Expression Language (LCEL), prompt templates, tool calling and agent loops, with LangSmith tracing.
 - **Agent reasoning:** reading [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) and [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) to understand what a good agent architecture looks like.
-- **Model tooling:** the OpenAI API, and local models with Ollama.
+- **Model tooling:** the OpenAI API, Claude Code and local models with Ollama.
 
 ## Software work
 
@@ -38,7 +38,7 @@ I'm deepening my AI engineering skills, with a focus on retrieval systems and LL
 
 Worked on the migration from an existing Django backend to Spring Boot. Implemented WebSocket dispatch and Redis-backed OTP data/caching, and worked on the Angular Signals admin dashboard.
 
-*Past development project. My involvement ended in August 2026; code remains private.*
+*Past development project. My involvement ended in August 2026. Code remains private.*
 
 ### Casbah Connect | Authentication and framework migration
 
@@ -54,7 +54,7 @@ Replaced Clerk with NextAuth passwordless sign-in, added server-derived identity
 | :--- | :--- |
 | Backend | Java, Spring Boot, REST APIs, SQL |
 | AI research | Python, Hugging Face Transformers, PyTorch, Keras/TensorFlow |
-| AI engineering (learning) | LangChain, LangGraph, RAG, embeddings, vector databases, OpenAI API, Ollama |
+| AI engineering (learning) | LangChain, LangGraph, RAG, embeddings, vector databases, Ollama |
 | Web | TypeScript, Angular, React, Next.js, MongoDB |
 | Mobile | Flutter, Dart |
 | Development tools | Git, Linux, Docker |
@@ -62,4 +62,4 @@ Replaced Clerk with NextAuth passwordless sign-in, added server-derived identity
 ## Background
 
 - **Education:** M.Sc. in Data Engineering and Web Technologies and B.Sc. in Computer Science, Ferhat Abbas University.
-- **Languages:** English and French at a professional level; native Bosnian and Arabic.
+- **Languages:** English and French at a professional level, native Bosnian and Arabic.
